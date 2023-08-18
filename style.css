@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6rem;
+}
+.conteiner__text{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+.conteiner__text h1{
+    color: palevioletred;
+    font-size: 5rem;
+    margin: 20px;
+}
+.conteiner__text p{
+    color: palevioletred;
+    font-size: 2rem;
+}
