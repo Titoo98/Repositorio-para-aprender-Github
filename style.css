@@ -14,6 +14,9 @@ body{
     border: black solid thin;
     margin: auto;
 }
+.conteiner__text-head{
+    margin: 25px;
+}
 .conteiner__text-post{
     width: 100%;
     display: flex;
