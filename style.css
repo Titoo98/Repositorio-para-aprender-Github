@@ -13,6 +13,7 @@ body{
     width: 80%;
     border: black solid thin;
     margin: auto;
+    padding: 0px 25px;
 }
 .conteiner__text-post{
     width: 100%;
@@ -24,10 +25,10 @@ body{
 .conteiner__text-post h1{
     color: black;
     font-size: 5rem;
-    margin: 25px;
+    margin: 25px 0px;
 }
 .conteiner__text-post p{
     color: black;
     font-size: 2rem;
-    margin: 25px;
+    margin: 25px 0px;
 }
