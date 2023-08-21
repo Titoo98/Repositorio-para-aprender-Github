@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-*{
-    margin: 0;
-    padding: 0;
-    font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
-=======
 * {
   margin: 0;
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
->>>>>>> cabecera
 }
 html {
   font-size: 62.5%;
@@ -16,18 +9,10 @@ html {
 body {
   font-size: 1.6rem;
 }
-<<<<<<< HEAD
-.conteiner__text{
-    width: 80%;
-    border: black solid thin;
-    margin: auto;
-    padding: 0px 25px;
-=======
 .conteiner__text {
   width: 80%;
   border: black solid thin;
   margin: auto;
->>>>>>> cabecera
 }
 .conteiner__text-head {
 box-shadow: 0px 0px 10px black;
@@ -37,7 +22,6 @@ box-shadow: 0px 0px 10px black;
   padding: 20px 25px;
   color: white;
 }
-<<<<<<< HEAD
 .conteiner__text-post h1{
     color: black;
     font-size: 5rem;
@@ -48,7 +32,6 @@ box-shadow: 0px 0px 10px black;
     font-size: 2rem;
     margin: 25px 0px;
 }
-=======
 .conteiner__text-head h1 {
   margin-right: 20px;
 }
@@ -72,4 +55,3 @@ box-shadow: 0px 0px 10px black;
   font-size: 2rem;
   margin: 25px;
 }
->>>>>>> cabecera
